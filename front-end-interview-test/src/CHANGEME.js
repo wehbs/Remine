@@ -38,6 +38,19 @@ componentDidMount() {
       };
 
 
+      filterList = (event) => {
+        let updatedList = this.getLocations();
+
+        updatedList = updatedList.filter(function(item){
+            return item.search(
+              event.target.value) !== -1;
+          });
+
+
+        this.setState({property: updatedList});
+      };
+
+
 
       
     render() {
@@ -49,7 +62,7 @@ componentDidMount() {
                 <input type="number" placeholder="# of Beds" />
 
                 
-                <input type="number" placeholder="# of Baths" />
+                <input type="number" placeholder="# of Baths" onChange={this.filterList}/>
 
                 <br />
 
