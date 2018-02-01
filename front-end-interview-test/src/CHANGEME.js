@@ -5,11 +5,13 @@ import API from './API';
 class Test extends Component {
 
 state = {
-    property: []
+    property: [],
+    buildings: []
 }
 
 componentDidMount() {
     this.getLocations();
+    this.getBuildingTypes();    
   }
 
     getLocations = () => {
@@ -23,11 +25,42 @@ componentDidMount() {
           .catch(err => console.log(err));
       };
 
+
+      getBuildingTypes = () => {
+        API.getBuildingTypes()
+          .then(res =>
+            this.setState({
+              buildings: res.data
+            })
+
+          )
+          .catch(err => console.log(err));
+      };
+
+
+
+      
     render() {
         return (
             <div className="testContainer">
                 <div className="filterContainer">
-                    Your filters go here.
+                    
+
+                <input type="number" placeholder="# of Beds" />
+
+                
+                <input type="number" placeholder="# of Baths" />
+
+                <br />
+
+                <p>Building Type</p>
+                <select>
+                {this.state.buildings.map(buildings => (
+                    <option key={buildings.id} value={buildings.name}>{buildings.name}</option>
+                ))}
+                </select>
+
+
                 </div>
                 <RemineTable properties={this.state.property} />
             </div>
