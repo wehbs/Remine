@@ -1,0 +1,1109 @@
+{
+    "locations": [
+        {
+            "id": 0,
+            "address": "1586 Waelchi River Keyontown North Dakota, 54039",
+            "beds": 2,
+            "baths": 3,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 1,
+            "address": "8635 Okuneva Road West Serenitymouth Idaho, 09857",
+            "beds": 1,
+            "baths": 1,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 2,
+            "address": "06804 Reinhold Flats Ashleyhaven Maryland, 88032",
+            "beds": 3,
+            "baths": 4,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 3,
+            "address": "512 Gottlieb Passage Justynmouth South Dakota, 64044-7530",
+            "beds": 2,
+            "baths": 0,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 4,
+            "address": "869 Kali Glen Langworthborough West Virginia, 90830",
+            "beds": 1,
+            "baths": 0,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 5,
+            "address": "46472 McDermott Mall South Earl Rhode Island, 70602-0659",
+            "beds": 3,
+            "baths": 1,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 6,
+            "address": "455 Olaf Drive Erdmanton Mississippi, 38051-7942",
+            "beds": 1,
+            "baths": 3,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 7,
+            "address": "29239 Delphine Cove Kundeland Kentucky, 68892-2749",
+            "beds": 3,
+            "baths": 4,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 8,
+            "address": "1646 Magnus Rapid Callieside Colorado, 87602-1255",
+            "beds": 4,
+            "baths": 1,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 9,
+            "address": "780 Toni Islands South Seamus Kansas, 91392",
+            "beds": 0,
+            "baths": 3,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 10,
+            "address": "74395 Earlene Extension East Kelvinport South Dakota, 11496",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 11,
+            "address": "428 Fisher Falls North Therese New Mexico, 94968",
+            "beds": 0,
+            "baths": 1,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 12,
+            "address": "4011 Koepp Manors New Johnathan Kentucky, 99274",
+            "beds": 2,
+            "baths": 5,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 13,
+            "address": "677 Johns Lodge South Reynashire Maryland, 92337-3107",
+            "beds": 1,
+            "baths": 3,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 14,
+            "address": "9508 Corene Extensions North Skylarbury Virginia, 13532-9084",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 15,
+            "address": "47420 Wintheiser River Lake Caroline North Dakota, 43425",
+            "beds": 1,
+            "baths": 1,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 16,
+            "address": "7060 Boehm Mission Nadiashire Arizona, 23428",
+            "beds": 4,
+            "baths": 0,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 17,
+            "address": "2697 Genoveva Alley Marksstad Alabama, 36717",
+            "beds": 3,
+            "baths": 3,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 18,
+            "address": "763 Lottie Vista Baumbachview Wyoming, 99881-2633",
+            "beds": 4,
+            "baths": 0,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 19,
+            "address": "9714 Bayer Pines Rohanshire Missouri, 95439-0036",
+            "beds": 4,
+            "baths": 1,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 20,
+            "address": "7584 Simone Spring New Josephberg Michigan, 99391",
+            "beds": 6,
+            "baths": 5,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 21,
+            "address": "3556 Strosin Motorway South Wileyburgh New York, 21170",
+            "beds": 2,
+            "baths": 4,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 22,
+            "address": "1502 Antonette Trail Janiceton Michigan, 07022-8425",
+            "beds": 0,
+            "baths": 3,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 23,
+            "address": "970 Freida Turnpike New Haileyhaven Indiana, 30250-5240",
+            "beds": 0,
+            "baths": 1,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 24,
+            "address": "84817 Neil Flats South Alexie Tennessee, 98567",
+            "beds": 1,
+            "baths": 1,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 25,
+            "address": "728 Jaydon Parkways Lake Darrionton Michigan, 41605",
+            "beds": 6,
+            "baths": 1,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 26,
+            "address": "950 Thompson Lakes North Gennaromouth Oklahoma, 05665-3558",
+            "beds": 0,
+            "baths": 3,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 27,
+            "address": "720 Runolfsdottir Fords East Jazmin Alaska, 50519-0770",
+            "beds": 1,
+            "baths": 2,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 28,
+            "address": "7583 Nikolaus Stravenue South Amiya Alaska, 73210",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 29,
+            "address": "78822 Kerluke Lake Constanceshire Alabama, 47491-1572",
+            "beds": 3,
+            "baths": 4,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 30,
+            "address": "0167 Norma Coves West Caseybury North Dakota, 77976-2312",
+            "beds": 2,
+            "baths": 0,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 31,
+            "address": "2141 Murazik Radial Gradytown Tennessee, 10952",
+            "beds": 0,
+            "baths": 1,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 32,
+            "address": "154 Jalon Highway North Ayla Iowa, 87388",
+            "beds": 3,
+            "baths": 4,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 33,
+            "address": "29745 Jeramie Greens New Henrietteside North Carolina, 37348",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 34,
+            "address": "9038 Watsica Crest Brennaview Maine, 38050",
+            "beds": 0,
+            "baths": 4,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 35,
+            "address": "50632 Adams Overpass West Wilhelmview Vermont, 44564",
+            "beds": 6,
+            "baths": 0,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 36,
+            "address": "525 Rau Throughway Leuschkechester Utah, 10985",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 37,
+            "address": "935 Toby Ramp South Annamarieburgh Oklahoma, 84573",
+            "beds": 3,
+            "baths": 4,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 38,
+            "address": "361 Gulgowski Path Kathryneton Washington, 02478-9229",
+            "beds": 1,
+            "baths": 0,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 39,
+            "address": "63416 Kenton Garden East Hiram Alaska, 16073",
+            "beds": 3,
+            "baths": 0,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 40,
+            "address": "7674 Bernita Island Lake Floport Illinois, 96961",
+            "beds": 4,
+            "baths": 0,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 41,
+            "address": "626 Isaias Port Catalinaview Oklahoma, 07909-7798",
+            "beds": 3,
+            "baths": 2,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 42,
+            "address": "3562 Sauer Point Roryport Iowa, 76290-1795",
+            "beds": 4,
+            "baths": 0,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 43,
+            "address": "352 Blick Flats East Garryhaven Delaware, 76333",
+            "beds": 3,
+            "baths": 2,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 44,
+            "address": "3085 Powlowski Via New Treymouth Nevada, 21537",
+            "beds": 1,
+            "baths": 0,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 45,
+            "address": "28648 Halie Haven Fosterton Iowa, 61974",
+            "beds": 0,
+            "baths": 2,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 46,
+            "address": "3440 Vinnie Rapids New Caroline Connecticut, 51996",
+            "beds": 0,
+            "baths": 1,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 47,
+            "address": "0679 Amina Groves New Edythmouth North Carolina, 84338",
+            "beds": 2,
+            "baths": 5,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 48,
+            "address": "9730 Ozella Forest Felipaburgh Colorado, 67680-9018",
+            "beds": 3,
+            "baths": 4,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 49,
+            "address": "558 Runte Cliffs North Estella Iowa, 36754",
+            "beds": 2,
+            "baths": 0,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 50,
+            "address": "6794 Heathcote Street South Hankton Michigan, 86394",
+            "beds": 1,
+            "baths": 1,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 51,
+            "address": "42129 Blanda Point Margarettberg Vermont, 33925-1571",
+            "beds": 4,
+            "baths": 1,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 52,
+            "address": "73894 Wilma Junction Diannafurt New York, 77277",
+            "beds": 2,
+            "baths": 3,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 53,
+            "address": "265 Roob Ridges Ocieville South Carolina, 88420",
+            "beds": 2,
+            "baths": 0,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 54,
+            "address": "549 Davin Squares Streichview Mississippi, 32303",
+            "beds": 1,
+            "baths": 3,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 55,
+            "address": "31643 Georgette Mountain Bahringerburgh New Jersey, 13559",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 56,
+            "address": "87947 Avis Ferry West Auguststad Alabama, 26287-5213",
+            "beds": 1,
+            "baths": 1,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 57,
+            "address": "75652 Champlin Ford East Arnulfo Wyoming, 09491",
+            "beds": 0,
+            "baths": 1,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 58,
+            "address": "692 Amara Island West Torrey Kentucky, 75804-1438",
+            "beds": 0,
+            "baths": 4,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 59,
+            "address": "6505 Irwin Square Mrazmouth South Carolina, 38981",
+            "beds": 2,
+            "baths": 3,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 60,
+            "address": "16607 Bahringer Springs Botsfordborough Idaho, 68341-3457",
+            "beds": 4,
+            "baths": 1,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 61,
+            "address": "2278 Amara Alley Filibertoside Oregon, 42697-5751",
+            "beds": 2,
+            "baths": 4,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 62,
+            "address": "9430 Orie Neck Lake Brooke South Dakota, 78301-3554",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 63,
+            "address": "4890 Damien Lodge Port Ellsworthshire Utah, 06526",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 64,
+            "address": "816 Allene Crest Moorestad Delaware, 09936-6571",
+            "beds": 0,
+            "baths": 3,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 65,
+            "address": "489 Wiegand Street Granttown New York, 09457",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 66,
+            "address": "74561 Raynor Brooks Pfefferstad West Virginia, 41348-3030",
+            "beds": 1,
+            "baths": 3,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 67,
+            "address": "5053 Cummings Path Botsfordfort Virginia, 39945-6477",
+            "beds": 1,
+            "baths": 1,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 68,
+            "address": "3299 Stracke Trail New Narcisoland Arkansas, 59412",
+            "beds": "4",
+            "baths": 4,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 69,
+            "address": "23103 Gottlieb Underpass Marionberg Iowa, 19216-6734",
+            "beds": 3,
+            "baths": 3,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 70,
+            "address": "63532 Matilde Oval Lake Eda Maryland, 14967-6863",
+            "beds": 1,
+            "baths": 0,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 71,
+            "address": "1820 Goyette Park Roweview Tennessee, 04958",
+            "beds": 2,
+            "baths": 1,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 72,
+            "address": "05639 Ankunding View West Michalemouth Minnesota, 99021",
+            "beds": 4,
+            "baths": 4,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 73,
+            "address": "5952 Goldner Road Port Jodieborough South Dakota, 37948",
+            "beds": 3,
+            "baths": 2,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 74,
+            "address": "23998 Nathanial Road East Lorenton Colorado, 86711",
+            "beds": 3,
+            "baths": 4,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 75,
+            "address": "50917 Tod Square North Herbertstad North Carolina, 46328-6389",
+            "beds": 98,
+            "baths": 3,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 76,
+            "address": "466 Moen Isle Lake Bartholomeville North Dakota, 32137-9966",
+            "beds": 3,
+            "baths": 1,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 77,
+            "address": "22214 Kunze Estates West Garnetshire Iowa, 89074-7422",
+            "beds": 0,
+            "baths": 0,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 78,
+            "address": "820 Bechtelar Point Santinomouth Nevada, 52859-1087",
+            "beds": 0,
+            "baths": 3,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 79,
+            "address": "80995 Mylene Island Lorenmouth Pennsylvania, 30119",
+            "beds": 2,
+            "baths": 1,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 80,
+            "address": "3800 Nick River Micahburgh Wyoming, 41513",
+            "beds": 3,
+            "baths": 3,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 81,
+            "address": "6383 Kulas Trace Port Everettebury Delaware, 20169-1556",
+            "beds": 3,
+            "baths": 4,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 82,
+            "address": "494 McDermott Parkway Crooksview Nebraska, 85773",
+            "beds": 1,
+            "baths": 0,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 83,
+            "address": "712 Cassin Hollow West Abnerbury Texas, 39207",
+            "beds": 0,
+            "baths": 3,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 84,
+            "address": "03882 Moore Plaza Brownmouth Alabama, 56469-5058",
+            "beds": 3,
+            "baths": 3,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 85,
+            "address": "00846 Baumbach Tunnel Hicklechester Michigan, 54610-1737",
+            "beds": 3,
+            "baths": 3,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 86,
+            "address": "424 Abbott Knolls Ritchieton Arkansas, 28354-1355",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 87,
+            "address": "8048 Llewellyn Haven Bradyhaven Arizona, 40879-4305",
+            "beds": 1,
+            "baths": 4,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 88,
+            "address": "78161 Kobe Trail North Rosina Florida, 98866-7753",
+            "beds": 0,
+            "baths": 0,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 89,
+            "address": "457 Melissa Ridges Willborough New Mexico, 36054-7061",
+            "beds": 3,
+            "baths": 4,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 90,
+            "address": "335 Corene Forks Port Jayfort Minnesota, 40632-5160",
+            "beds": 4,
+            "baths": null,
+            "buildingType": {
+                "id": 4,
+                "name": "office"
+            }
+        },
+        {
+            "id": 91,
+            "address": "8441 Schneider Passage Walterstad Rhode Island, 85447",
+            "beds": 0,
+            "baths": 1,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 92,
+            "address": "02591 Kira Manor South Hayden Oklahoma, 77973-4442",
+            "beds": 3,
+            "baths": 1,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 93,
+            "address": "606 Bogan Harbors Labadieberg Michigan, 83539",
+            "beds": 1,
+            "baths": 0,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 94,
+            "address": "21394 Colleen Freeway Jakubowskibury Washington, 68036-2129",
+            "beds": 0,
+            "baths": 2,
+            "buildingType": {
+                "id": 2,
+                "name": "condo"
+            }
+        },
+        {
+            "id": 95,
+            "address": "936 Kutch Passage West Bianka Louisiana, 97500-4816",
+            "beds": 1,
+            "baths": 0,
+            "buildingType": {
+                "id": 1,
+                "name": "multiFamily"
+            }
+        },
+        {
+            "id": 96,
+            "address": "53052 Stamm Ports East Shanelle Connecticut, 05697",
+            "beds": 0,
+            "baths": 4,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        },
+        {
+            "id": 97,
+            "address": "89859 Elouise Forges North Eunatown Connecticut, 72317",
+            "beds": 2,
+            "baths": 0,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 98,
+            "address": "8596 Lueilwitz Garden Wandastad Texas, 98010-0641",
+            "beds": 4,
+            "baths": 2,
+            "buildingType": {
+                "id": 3,
+                "name": "business"
+            }
+        },
+        {
+            "id": 99,
+            "address": "2609 Predovic Lodge Port Beth South Dakota, 85875",
+            "beds": 0,
+            "baths": 0,
+            "buildingType": {
+                "id": 5,
+                "name": "singleFamily"
+            }
+        }
+    ],
+    "user": [
+        {
+            "id": 1,
+            "userPlan": {
+                "planId": 1
+            }
+        },
+        {
+            "id": 2,
+            "userPlan": {
+                "planId": 4
+            }
+        },
+        {
+            "id": 3,
+            "userPlan": {
+                "planId": 2
+            }
+        },
+        {
+            "id": 4,
+            "userPlan": {
+                "planId": 3
+            }
+        }
+    ],
+    "subscriptionPlans": [
+        {
+            "id": 1,
+            "maxTrackedItems": 100,
+            "creditsPerHousehold": 3,
+            "price": {
+                "currency": "",
+                "value": "Free",
+                "paymentInterval": ""
+            },
+            "additionalFeatures": [
+                "Sell Scores"
+            ]
+        },
+        {
+            "id": 2,
+            "maxTrackedItems": 250,
+            "creditsPerHousehold": 2.5,
+            "price": {
+                "currency": "USD",
+                "value": "29",
+                "paymentInterval": "month"
+            },
+            "additionalFeatures": [
+                "Sell Scores",
+                "Value & Equity Maps"
+            ]
+        },
+        {
+            "id": 3,
+            "maxTrackedItems": 500,
+            "creditsPerHousehold": 1.5,
+            "price": {
+                "currency": "USD",
+                "value": "99",
+                "paymentInterval": "month"
+            },
+            "additionalFeatures": [
+                "Sell Scores",
+                "Value & Equity Maps"
+            ]
+        },
+        {
+            "id": 4,
+            "maxTrackedItems": 10000,
+            "creditsPerHousehold": 1,
+            "price": {
+                "currency": "USD",
+                "value": "199",
+                "paymentInterval": "month"
+            },
+            "additionalFeatures": [
+                "Sell Scores",
+                "Value & Equity Maps"
+            ]
+        }
+    ],
+    "buildingTypes": [
+        {
+            "id": 1,
+            "name": "multiFamily"
+        },
+        {
+            "id": 2,
+            "name": "condo"
+        },
+        {
+            "id": 3,
+            "name": "business"
+        },
+        {
+            "id": 4,
+            "name": "office"
+        },
+        {
+            "id": 5,
+            "name": "singleFamily"
+        }
+    ]
+}
