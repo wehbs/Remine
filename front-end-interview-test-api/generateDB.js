@@ -2,7 +2,7 @@ const faker = require('faker');
 const jsonfile = require('jsonfile');
 
 //Minimum number of entries is 100
-const numberOfEntries = 1000;
+const numberOfEntries = 100;
 
 if (numberOfEntries < 100) {
     numberOfEntries = 100;
