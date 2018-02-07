@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import RemineTable from "./components/Table/RemineTable/RemineTable";
 import API from "./API";
 
+// The only purpose of these global variables is for the eval function used later in the code
 let bedmin = 0;
 let bedmax = 0;
 let bathmin = 0;
@@ -31,7 +32,6 @@ class Test extends Component {
     let baths = [];
 
     for (var i = 0; this.state.property.length > i; i++) {
-      beds.push(parseInt(this.state.property[i].beds, 10));
 
       // This is to deal with any null data the for loop will just skip over it instead of returning NaN
       if (
@@ -40,6 +40,7 @@ class Test extends Component {
       ) {
         continue;
       }
+      beds.push(parseInt(this.state.property[i].beds, 10));      
       baths.push(parseInt(this.state.property[i].baths, 10));
     }
 
@@ -62,6 +63,7 @@ class Test extends Component {
           property: res.data,
           list: res.data
         });
+        // Execute the init function after grabbing API data which determines max and min for beds and baths
         this.init();
       })
       .catch(err => console.log(err));
@@ -81,6 +83,7 @@ class Test extends Component {
   // This single function will capture all values from the inputs and change the state values
   onChange = event => {
     if (event.target.value === "") {
+        // Looks at the global variable set up at the top and changes it to that value if the bed or bath fields are left blank
         let x = eval(event.target.name);
 
       this.setState({ [event.target.name]: x });
@@ -99,8 +102,8 @@ class Test extends Component {
 
     for (var i = 0; this.state.property.length > i; i++) {
         // This is to convert the null data to 0 for the empty fields
-        bed =this.state.property[i].beds === null ? 0 :this.state.property[i].beds;
-        bath =this.state.property[i].baths === null ? 0 :this.state.property[i].baths;
+        bed = this.state.property[i].beds === null ? 0 :this.state.property[i].beds;
+        bath = this.state.property[i].baths === null ? 0 :this.state.property[i].baths;
 
       if (
         (parseInt(bed, 10) >= this.state.bedmin &&
